@@ -1,6 +1,4 @@
-/* =========================
-   RESET
-========================= */
+
 
 * {
     margin: 0;
@@ -70,9 +68,7 @@ img {
 }
 
 
-/* =========================
-   BUTTONS
-========================= */
+/* button */
 
 .btn {
     display: inline-block;
@@ -115,9 +111,7 @@ img {
 }
 
 
-/* =========================
-   NAVBAR
-========================= */
+/* navbar */
 
 .header {
     background-color: #ffffff;
@@ -176,10 +170,7 @@ img {
     transform: translateY(-2px);
 }
 
-
-/* =========================
-   HERO
-========================= */
+/* hero */
 
 .hero {
     background: linear-gradient(135deg, #f8f7ff, #ffffff);
@@ -241,9 +232,7 @@ img {
 }
 
 
-/* =========================
-   FEATURES
-========================= */
+/* features */
 
 .features {
     background-color: #ffffff;
@@ -292,9 +281,7 @@ img {
 }
 
 
-/* =========================
-   ABOUT
-========================= */
+/* about */
 
 .about {
     background-color: #f8f9fc;
@@ -332,9 +319,7 @@ img {
 }
 
 
-/* =========================
-   TESTIMONIALS
-========================= */
+/* testimonials */
 
 .testimonials {
     background-color: #ffffff;
@@ -398,11 +383,8 @@ img {
     color: #667085;
 }
 
-
-/* =========================
-   CTA
-========================= */
-
+/* 
+cta */
 .cta {
     background-color: #635bff;
     color: #ffffff;
@@ -431,9 +413,7 @@ img {
 }
 
 
-/* =========================
-   FOOTER
-========================= */
+/* footer */
 
 .footer {
     background-color: #101828;
@@ -492,9 +472,7 @@ img {
 }
 
 
-/* =========================
-   TABLET
-========================= */
+/* tablet */
 
 @media (max-width: 992px) {
 
@@ -523,11 +501,8 @@ img {
     }
 
 }
-
-
-/* =========================
-   MOBILE
-========================= */
+/* 
+mobile */
 
 @media (max-width: 768px) {
 
@@ -641,9 +616,7 @@ img {
 }
 
 
-/* =========================
-   SMALL MOBILE
-========================= */
+/* mobile */
 
 @media (max-width: 480px) {
 
